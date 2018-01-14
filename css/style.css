@@ -28,16 +28,6 @@ button.close {
     margin-left: 26rem;
 }
 
-p {
-    margin: 0 0 10px;
-    color: #f51717;
-    font-weight: bold;
-    background-color: white;
-    height: 13rem;
-    padding-top: 2rem;
-
-}
-
 .adboximg {
     max-width: 100%;
     -webkit-box-sizing: content-box;
