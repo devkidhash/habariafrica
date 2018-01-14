@@ -1,0 +1,92 @@
+/* LIPA EASY RESPONSIVE */
+@media (min-width: 1200px) {
+
+}
+
+/* Medium Devices (Landscape Tablets & Medium Desktops) */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+
+}
+
+/* Small Devices (Potrait Tablets and Small Desktops) */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+/* Small Device */
+@media (min-width: 576px) and (max-width: 767px) {
+
+footer {
+  display: none;
+}
+
+.gallery_product {
+
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: ;
+}
+img {
+    width: 5rem;
+    height: 5rem;
+    border: 2px solid rgba(232,215,215,1);
+    -webkit-border-radius: 0 0;
+    border-radius: 0 0;
+}
+
+}
+
+/* Extra Small Device (575px) */
+@media (max-width: 575px) {
+  footer {
+    display: none;
+  }
+
+  .gallery_product {
+
+      margin-left: 0px;
+      margin-right: 0px;
+      padding-right: ;
+  }
+  img {
+      width: 5rem;
+      height: 5rem;
+      border: 2px solid rgba(232,215,215,1);
+      -webkit-border-radius: 0 0;
+      border-radius: 0 0;
+  }
+
+}
+
+/*Smaller Devices (480px) */
+@media (max-width: 480px)  {
+
+  .modal-dialog{
+    width: 100%;
+  }
+
+  footer{ display: none;}
+
+  img {
+      width: 5rem;
+      height: 5rem;
+      border: 2px solid rgba(232,215,215,1);
+      -webkit-border-radius: 0 0;
+      border-radius: 0 0;
+  }
+
+}
+/* (320x480) Smartphone, Landscape */
+@media only screen and (width: 480px) and (orientation: landscape) {
+
+
+    /* insert styles here */
+}
+/* Extra Smaller Devices (320px) */
+@media (max-width: 320px){
+
+
+}
